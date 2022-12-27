@@ -1,0 +1,7 @@
+.itemDiv{
+    /* flex: auto; */
+    margin : auto;
+    font-family: 'Courier New', Courier, monospace;
+    border: .1em black solid;
+    /* display: inline-flex */
+}
